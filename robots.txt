@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niftcham.github.io/sitemap.html.gz
+Sitemap: https://niftcham.github.io/app/sitemap.html.gz
+Sitemap: https://niftcham.github.io/assets/sitemap.html.gz
+Sitemap: https://niftcham.github.io/css/sitemap.html.gz
+Sitemap: https://niftcham.github.io/includes/sitemap.html.gz
+Sitemap: https://niftcham.github.io/item/sitemap.html.gz
+Sitemap: https://niftcham.github.io/src/sitemap.html.gz
